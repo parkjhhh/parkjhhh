@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊Hi, I'm Park Ji Hye </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 성장하기 위해 꾸준히 고민하는 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 안녕하세요 전자정보통신공학과를 전공한 박지혜입니다다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -38,10 +38,8 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **VMware vSphere HA Deep Dive** | VMware vSphere High availability 기능을 깊게 분석합니다.| vShpere, Cluster, Admission Control, Failover Response | &nbsp;&nbsp;👩‍👩‍👧‍👦<br>(4명)| [GitHub 링크](https://github.com/ChoiYoungHa/VMware_vSphere_HA_DeepDive) | 2024-09-13 |
-| 2  | **Linux PAM 모듈로 보안정책 구성하기** | Linux Ubuntu 환경에서 유저생성 및 로그인 정책을 구성합니다. | Ubuntu, PAM, pwquality, Virtual Box| &nbsp;&nbsp;🙋(개인) | [GitHub 링크](https://github.com/ChoiYoungHa/Linux_PAM) | 2024-09-19 |
-| 3  | **CPU 평균 부하(Load Average)에 대해 이해하기** | Linux 평균 부하와 CPU 사용률에 대한 차이를 이해하고 스트레스 테스트를 진행해봅니다. | Linux, CPU Stress, I/O Stress, mpstat| 👩‍👩<br> (2인) | [GitHub 링크](https://github.com/ChoiYoungHa/Linux_LoadAverage) | 2024-09-23 |
-
+| 1  |  | |  | | |  |
+| 2  |  | |  |  |  |
 
 
 <br>
