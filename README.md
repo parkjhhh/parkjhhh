@@ -39,7 +39,7 @@
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
 | 1  |  | |  | | |  |
-| 2  |  | |  |  |  |
+| 2  | **타이타닉 데이터 생존률 실시간 시각화** | RDB 테이블 변경사항을 Logstash가 실시간으로 감지하고, Kibana를 통해 생존률 지표를 시각화합니다. | ElasticSearch, Logstash, Kibana, Mysql |  &nbsp;&nbsp;👩‍👩‍👧 <br>(3명) | 2024-07-25 |
 
 
 <br>
@@ -48,8 +48,8 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **서울시 공원 데이터 CRUD** | JDBC를 통해 STS와 MySQL DB를 연결시켜 CRUD 기능 구현 | Java, DBeaver, MySQL| &nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명)| [GitHub 링크] | 2024-07-19 |
-| 2  | **타이타닉 데이터 생존률 실시간 시각화** | RDB 테이블 변경사항을 Logstash가 실시간으로 감지하고, Kibana를 통해 생존률 지표를 시각화합니다. | ElasticSearch, Logstash, Kibana, Mysql | &nbsp;&nbsp;👩‍👩‍👧 <br>(3명) |  | 2024-07-25 |
+| 1  | **서울시 공원 데이터 CRUD** | JDBC를 통해 STS와 MySQL DB를 연결시켜 CRUD 기능 구현 | Java, DBeaver, MySQL| &nbsp;&nbsp;👨‍👨‍👦‍👦<br>(4명)| [https://github.com/ce-step01/firstWeek.git] | 2024-12-30 ~ 2025-01-13 |
+| 2  | **** |  |  |  |  |  |
 
 
 ---
